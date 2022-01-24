@@ -1,7 +1,7 @@
 # cypress-bdd-pom
 
-# SAMPLE AUTOMATION FRAMEWORK FOR UI TESTING
-A sample framework created using cypress, bdd, typescript, mochawesome and allureport.
+# AUTOMATION FRAMEWORK WITH CYPRESS
+A sample framework created using cypress, bdd, typescript, mochawesome and allure-report.
 
 ## Pre-requisite Tools
 1. Node version 12 or above
