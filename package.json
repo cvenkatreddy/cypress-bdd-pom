@@ -7,7 +7,7 @@
     "test": "npm start & cypress run",
     "e2e": "cypress run",
     "cy:run": "cypress run",
-    "cy:run:record": "cypress run --record",
+    "cy:run:record": "cypress run --record --key 76ccbb5c-83e1-4f4b-b32f-b3771c555323",
     "cy:open": "cypress open",
     "cleanup": "rm -fr mochawesome-report",
     "merge_reports": "mochawesome-merge --reportDir mochawesome-report > mochawesome-report/output.json",
