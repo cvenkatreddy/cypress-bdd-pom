@@ -1,0 +1,18 @@
+{
+  "baseUrl": "https://www.ninjacasino.com",
+  "viewportWidth": 1368,
+  "viewportHeight": 800,
+  "requestTimeout": 12000,
+  "chromeWebSecurity": false,
+  "video": false,
+  "testFiles": "**/*.feature",
+  "env": {
+    "NODE_ENV": "development"
+  },
+  "reporter": "mochawesome",
+  "reporterOptions": {
+    "html": false,
+    "json": true,
+    "overwrite": false
+  }
+}

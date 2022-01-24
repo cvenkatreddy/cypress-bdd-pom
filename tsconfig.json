@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+      "target": "es2018",
+      "lib": ["esnext", "dom"],
+      "types": ["cypress", "node"],
+      // "module": "commonjs",
+      "allowJs": true,
+      "noEmit": true,
+      "allowSyntheticDefaultImports": true,
+      "esModuleInterop": true,
+      // "experimentalDecorators": true,
+      "resolveJsonModule": true,
+      "moduleResolution": "node"
+    },
+    "include": ["cypress", "**/*.ts"],
+    "exclude": ["node_modules"]
+}
+  
