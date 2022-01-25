@@ -37,7 +37,8 @@ export const HomePage = {
     });
   },
   selectSubMenu(subMenuToSelect: string) {
-    this.clickBurgerBtn();
-    SelectDropdown(casinoMenuLbl, subMenuItemLbls, subMenuToSelect);
+    this.clickBurgerBtn().then(() => {
+      SelectDropdown(casinoMenuLbl, subMenuItemLbls, subMenuToSelect);
+    });
   },
 };
