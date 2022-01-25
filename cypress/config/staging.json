@@ -1,5 +1,5 @@
 {
-    "baseUrl": "https://staging.com",
+    "baseUrl": "",
     "reporter": "mochawesome",
     "reporterOptions": {
         "overwrite": false,
@@ -10,9 +10,5 @@
         "ENVIRONMENT": "staging",
         "CYPRESS_RETRIES": 2
     },
-    "chromeWebSecurity": false,
-    "requestTimeout": 30000,
-    "defaultCommandTimeout": 60000,
-    "numTestsKeptInMemory": 10,
-    "pageLoadTimeout": 120000
+    "chromeWebSecurity": false
 }
