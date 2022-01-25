@@ -9,4 +9,5 @@ WORKDIR /e2e
 COPY . /e2e
 # execute the tests
 RUN npm install
-RUN npm run test:allure-report
+RUN npm run e2e
+# RUN npm run test:allure-report
