@@ -27,7 +27,7 @@ You know setting up framework is very quick 🚀
 
 ## Reports
 1. Mochawesome reports: 
-After execution of command `npm run e2e_mochawesome`,  reports will be generated in `mochawesome-report` folder and open output.html for html reports
+After execution of command `npm run e2e_mochawesome`,  reports will be generated in `mochawesome-report` folder and open `output.html` for html reports
   
 2. Allure reports: 
    After execution of command `npm run e2e_allure`, allure reports will be shown via webserver
