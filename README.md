@@ -21,9 +21,9 @@ You know setting up framework is very quick 🚀
 3. click specific feature or run all features
 
 ## cmmd line Execution
-1. npm run e2e_mochawesome //for a full run with mochawesome reports
-2. npm run e2e_allure //for a full run with allure-reports
-3. npm run cy:run:record  // for a full run and to upload testresults to cypress dashboard
+1. `npm run e2e_mochawesome` //for a full run with mochawesome reports
+2. `npm run e2e_allure` //for a full run with allure-reports
+3. `npm run cy:run:record` // for a full run and to upload testresults to cypress dashboard
 
 ## Reports
 1. Mochawesome reports: 
