@@ -34,7 +34,9 @@ After execution of command `npm run e2e_mochawesome`,  reports will be generated
    
 ## Docker Execution
 1. Download and install Docker
+
   1.a For Mac: https://www.docker.com/products/docker-desktop
+  
   1.b For Windows: https://docs.docker.com/desktop/windows/
   
 2. Go to project root and run command `docker build -t cypress .`
