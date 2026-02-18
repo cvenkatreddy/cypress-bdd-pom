@@ -1,4 +1,4 @@
-# AUTOMATION FRAMEWORK WITH CYPRESS
+# Automation Framework with Cypress
 
 A sample framework created using cypress, bdd, typescript and docker, reports are generated using various report styles like mochawesome and allure-report.
 
